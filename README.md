@@ -13,6 +13,7 @@ This is a simple JavaScript script that reverses a given string. Understanding h
 To run this script locally, ensure you have Node.js installed on your machine. Clone this repository and navigate to the `string_reverser` directory.
 ``sh
 git clone https://github.com/your-username/codingTasks.git
+In my case, it is git clone https://github.com/Abdulrahman843/codingTasks.git
 cd codingTasks/string_reverser
 
 ## Usage 
@@ -22,8 +23,7 @@ To use this script, run the following command:
 node string_reverser.js <string>
 
 Screenshot 1:
-https://github.com/Abdulrahman843/codingTasks/blob/main/Screenshot%201%20for%20usage%20section.png?raw=true
-https://github.com/Abdulrahman843/codingTasks/blob/fc03026895a8c4508d1b69f902475aa1bc8ed089/Screenshot%201%20for%20usage%20section.png
+![image](https://github.com/Abdulrahman843/codingTasks/assets/165313776/8e6218a1-7d86-4915-bf14-a3a96fb1ff7c)
 
 Replace <string> with the string you want to reverse.
 
