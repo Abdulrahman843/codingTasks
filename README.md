@@ -37,6 +37,8 @@ This will output:
 c
 Reversed string: olleh
 
+Screenshot 2:
+![image](https://github.com/Abdulrahman843/codingTasks/assets/165313776/9ad96ba1-3a26-4d88-94dd-c99e24870515)
 
 ## Credits
 Developed by Abdulrahman Laoye.
