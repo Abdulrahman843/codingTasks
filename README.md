@@ -26,6 +26,7 @@ node string_reverser.js <string>
 Screenshot 1:
 https://github.com/Abdulrahman843/codingTasks/blob/main/Screenshot%201%20for%20usage%20section.png?raw=true
 Screenshot 1 for usage section.png
+Screenshot%201%20for%20usage%20section.png
 https://github.com/Abdulrahman843/codingTasks/blob/fc03026895a8c4508d1b69f902475aa1bc8ed089/Screenshot%201%20for%20usage%20section.png
 
 Replace <string> with the string you want to reverse.
