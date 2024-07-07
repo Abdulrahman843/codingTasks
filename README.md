@@ -12,8 +12,7 @@ This is a simple JavaScript script that reverses a given string. Understanding h
 ## Installation
 To run this script locally, ensure you have Node.js installed on your machine. Clone this repository and navigate to the `string_reverser` directory.
 ``sh
-git clone https://github.com/your-username/codingTasks.git
-In my case, it is git clone https://github.com/Abdulrahman843/codingTasks.git
+git clone https://github.com/Abdulrahman843/codingTasks.git
 cd codingTasks/string_reverser
 
 ## Usage 
