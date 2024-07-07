@@ -23,6 +23,9 @@ To use this script, run the following command:
 sh
 node string_reverser.js <string>
 
+Screenshot 1:
+https://github.com/Abdulrahman843/codingTasks/blob/main/Screenshot%201%20for%20usage%20section.png?raw=true
+
 Replace <string> with the string you want to reverse.
 
 Example
