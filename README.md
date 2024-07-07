@@ -10,7 +10,7 @@
 This is a simple JavaScript script that reverses a given string. Understanding how to manipulate strings is fundamental in programming, and this task helps reinforce concepts of string manipulation in JavaScript.
 
 ## Installation
-To run this script locally, ensure you have Node.js installed on your machine. Clone this repository and navigate to the `string_reverser` directory.
+To run this script locally, ensure Node.js is installed on your machine. Clone this repository and navigate to the `string_reverser` directory.
 ``sh
 git clone https://github.com/Abdulrahman843/codingTasks.git
 cd codingTasks/string_reverser
@@ -39,15 +39,10 @@ Screenshot 2:
 ![image](https://github.com/Abdulrahman843/codingTasks/assets/165313776/9ad96ba1-3a26-4d88-94dd-c99e24870515)
 
 ## Credits
-Developed by Abdulrahman Laoye.
-5. Push the Changes to GitHub
-- Add, commit, and push your changes to the remote repository. Open Git Bash or your terminal and run the following commands:
+- [Abdulrahman843](https://github.com/Abdulrahman843)
+- Developer and creator of `string_reverser.js`
 
-```sh
-cd ../..
-git add string_reverser
-git commit -m "Add string reverser script and README"
-git push origin main
+Adjust paths and details according to your actual setup and requirements.
 
 
 
